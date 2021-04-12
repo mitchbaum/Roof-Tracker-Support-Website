@@ -1,0 +1,9 @@
+body {
+    text-align: center;
+    } /* main page content margin top and bottom: 10px, padding left and right 10% */
+
+.header {
+    font-size: 40px;
+    text-weight: bold;
+    text-align: center;
+}
